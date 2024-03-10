@@ -1,0 +1,6 @@
+﻿E:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (KiK.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  Gra.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generowanie kodu...
+  Gra.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  KiK.vcxproj -> C:\Users\domin\Desktop\kik\KiK\Debug\TicTacToe.exe

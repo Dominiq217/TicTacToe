@@ -1,0 +1,9 @@
+C:\Users\domin\Desktop\gry\calosc\KiK\KiK\Debug\KiK.vcxproj.AssemblyReference.cache
+C:\Users\domin\Desktop\gry\calosc\KiK\KiK\Debug\KiK.Gra.resources
+C:\Users\domin\Desktop\gry\calosc\KiK\KiK\Debug\KiK.vcxproj.GenerateResource.cache
+C:\Users\domin\Desktop\gry\KiK\KiK\Debug\KiK.vcxproj.AssemblyReference.cache
+C:\Users\domin\Desktop\gry\KiK\KiK\Debug\KiK.Gra.resources
+C:\Users\domin\Desktop\gry\KiK\KiK\Debug\KiK.vcxproj.GenerateResource.cache
+C:\Users\domin\Desktop\kik\KiK\KiK\Debug\KiK.vcxproj.AssemblyReference.cache
+C:\Users\domin\Desktop\kik\KiK\KiK\Debug\KiK.Gra.resources
+C:\Users\domin\Desktop\kik\KiK\KiK\Debug\KiK.vcxproj.GenerateResource.cache
