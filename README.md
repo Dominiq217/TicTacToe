@@ -25,6 +25,8 @@ To play Tic Tac Toe, follow these simple steps:
 4. **Enjoy the Game:**
    - Play against a friend and have fun trying to outmaneuver each other in this timeless game of strategy!
 
+I pref "![visualstudio icon](https://github.com/Dominiq217/TicTacToe/assets/97559453/085e0461-f7ad-4a27-96cc-8add3b32deaa)" and C extends
+
 ## Author
 
 This Tic Tac Toe game was developed by Dominiq217. It's one of my early projects in C++. Have Fun :D
